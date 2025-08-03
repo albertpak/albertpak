@@ -1,11 +1,16 @@
-## Hi there 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=albertpak&theme=nord)](https://github.com/albertpak)
 
-### 🚀 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐋𝐞𝐚𝐝𝐞𝐫 | 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 | 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 🌟
+## I build AI-powered systems that turn engineering teams into revenue engines.
 
-I'm Albert Pak, an Engineering Manager with a proven track record of leading high-performing software teams and delivering innovative solutions across industries like auto, travel, healthcare, and logistics. With over a decade of experience, I specialize in building scalable, efficient, and modern engineering practices that drive revenue, enhance customer experiences, and streamline operations.
+My teams have generated $100M+ in business value by creating products customers actually buy—from PCI compliance solutions that unlocked enterprise deals to AI platforms that doubled engagement rates.
 
-Beyond my professional accomplishments, I thrive on solving tough challenges, mentoring up-and-coming engineers, and exploring the potential of Generative AI, cloud computing, and automation to shape the future of technology.
+While others debate frameworks, I ship revenue-generating products. My approach combines deep technical architecture with business strategy, ensuring every line of code contributes to the bottom line.
 
-🌐 Connect with me to discuss tech, innovation, and how I can help your organization scale and succeed. Let's build something amazing together.
+I excel at the intersection of AI innovation and business transformation. Whether it's implementing machine learning to automate operations or rebuilding legacy systems for modern scale, I focus on one metric: revenue impact.
+
+Through Joy of Automation (my 20-year consultancy), I help enterprises transform their engineering functions from cost centers to profit drivers. My advisory work centers on AI adoption, technical team transformation, and building systems that scale revenue, not just infrastructure.
+
+## Who I Serve:
+CEOs and CTOs at growth-stage companies ($10M-$100M) ready to leverage AI for competitive advantage. If you're tired of engineering teams that build features nobody uses, let's talk.
+
+__Now accepting select advisory engagements with companies ready to transform their technical capabilities into market advantages.__
