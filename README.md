@@ -13,4 +13,4 @@ Through myconsultancy, I help enterprises transform their engineering functions 
 ## Who I Serve:
 CEOs and CTOs at growth-stage companies ($10M-$100M) ready to leverage AI for competitive advantage. If you're tired of engineering teams that build features nobody uses, let's talk.
 
-__Now accepting select advisory engagements with companies ready to transform their technical capabilities into market advantages.__
+*Now accepting select advisory engagements with companies ready to transform their technical capabilities into market advantages.*
