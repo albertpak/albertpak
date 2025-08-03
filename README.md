@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=albertpak&theme=nord)](https://github.com/albertpak)
 
-## I build AI-powered systems that turn engineering teams into revenue engines.
+### I build AI-powered systems that turn engineering teams into revenue engines.
 
 My teams have generated $100M+ in business value by creating products customers actually buy—from PCI compliance solutions that unlocked enterprise deals to AI platforms that doubled engagement rates.
 
@@ -10,7 +10,7 @@ I excel at the intersection of AI innovation and business transformation. Whethe
 
 Through myconsultancy, I help enterprises transform their engineering functions from cost centers to profit drivers. My advisory work centers on AI adoption, technical team transformation, and building systems that scale revenue, not just infrastructure.
 
-## Who I Serve:
+### Who I Serve:
 CEOs and CTOs at growth-stage companies ($10M-$100M) ready to leverage AI for competitive advantage. If you're tired of engineering teams that build features nobody uses, let's talk.
 
 *Now accepting select advisory engagements with companies ready to transform their technical capabilities into market advantages.*
